@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="client/src/assets/logo.png" alt="Dev Nest Logo" width="150"/>
+  <img src="client/src/assets/logo.png" alt="Dev Nest Logo" style="width:100%; max-width:400px;">
 </p>
 
 <h1 align="center">Dev Nest</h1>
@@ -94,6 +94,7 @@ Feel free to fork, raise issues, or submit PRs to improve this project!
 ## 🧾 License
 
 ![GitHub License](https://img.shields.io/github/license/Mozeel-V/code-editor?style=for-the-badge&color=e67234)
+
 This project is licensed under the [MIT License](LICENSE).
 
 ## 📝 Author
